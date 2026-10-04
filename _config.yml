@@ -1,0 +1,4 @@
+title: Forecast Check
+description: Weather from the most accurate model
+exclude:
+  - README.md

@@ -35,4 +35,4 @@ Remove the extension, or clear its data in your browser's extension settings, to
 
 ## Contact
 
-Questions: write to the contact email shown on the extension's Chrome Web Store page.
+Questions: [sazonoff@aspanlabs.com](mailto:sazonoff@aspanlabs.com)

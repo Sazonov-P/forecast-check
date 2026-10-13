@@ -7,6 +7,6 @@ Weather from the forecast model that has been most accurate where you live.
 Forecast Check is a Chrome extension. It shows the forecast from nine global weather models and checks each of them against the airport weather station nearest to you: for every hour of the last two weeks it compares what each model predicted the day before with what the station measured. Your main forecast then comes from the model with the smallest error.
 
 - [Privacy policy](privacy)
-- [Watch the 25-second demo](demo.html) — real London data; preview of 0.1.4, currently under review.
+- [Watch the 25-second demo](demo.html) — real London data, from city selection to feedback in version 0.1.4.
 
 Forecasts by [Open-Meteo.com](https://open-meteo.com/) (CC BY 4.0). Observations by [NOAA Aviation Weather Center](https://aviationweather.gov/).

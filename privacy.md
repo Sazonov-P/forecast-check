@@ -1,6 +1,6 @@
 # Forecast Check — Privacy Policy
 
-Last updated: October 4, 2026
+Last updated: October 28, 2026
 
 Forecast Check is a browser extension that shows weather forecasts from several weather models and how accurate each model has been near you.
 
@@ -24,9 +24,15 @@ To get the weather, the extension sends requests directly from your browser to:
 
 Like any website, these services see your IP address. Their own privacy policies apply: [Open-Meteo](https://open-meteo.com/en/terms), [NOAA](https://www.noaa.gov/protecting-your-privacy).
 
+## Optional external resources
+
+The Analytics tab contains links to the Free Weather Data Scorecard study on GitHub Pages. The study loads only when you choose a link, in a new tab. Each link includes the same static campaign labels for everyone and a label for the selected regional edition; it does not include your chosen city, coordinates, settings or a user identifier. These labels are not a click collector: the extension sends no usage events.
+
+When you open a link, the destination host receives the request and your IP address as with any website. Its privacy policy applies: [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
 ## What we don't do
 
-- No accounts, no analytics, no ads, no tracking.
+- No accounts, no usage analytics, no ads, no tracking in the extension.
 - We don't sell or share your data, and we don't use it for anything other than showing the weather.
 
 ## Your choices
